@@ -4,8 +4,8 @@ I'm a Full-Stack Blockchain Developer and the creator of [tifdao.com](https://ti
 **Contact:** steven_ens@protonmail.com 
 
 ## Currently Building
-### [Transaction Scheduler for Ethereum](https://github.com/Steven-Ens/Transaction-Scheduler)
-A protocol for scheduling future transactions on Ethereum using smart contracts and an off-chain executor.
+### [Scheduled Protocol](https://github.com/Steven-Ens/Scheduled-Protocol)
+A protocol for scheduling future transactions (one-time and recurring) on Arbitrum One.
 * Solidity smart contracts
 * Rust execution client
-* Minimal frontend built with vanilla JavaScript and viem
+* Minimal frontend using Typescript and viem
